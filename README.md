@@ -1,5 +1,5 @@
 # AIConference2024
-Key Dates of AI and Data Mining Conferences in 2024
+Key Dates of AI/ML and Data Mining Conferences in 2024
 
 ## IJCAI-PRICAI 2024
 - Dates: August 03-09, 2024
