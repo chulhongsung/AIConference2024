@@ -37,7 +37,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Location:  Barcelona, Spain
 - Full paper submission deadline: February 09, 2024
 - Paper notification: April, 25, 2024
-- Website: [https://kdd2024.kdd.org](https://kdd2024.kdd.org)
+- Website: [https://www.auai.org/uai2024/](https://www.auai.org/uai2024/)
 
 ## ECML PKDD 2024
 - Dates: September 9-13, 2024
@@ -45,7 +45,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Abstract submission deadline: March 15, 2024
 - Full paper submission deadline: March 22, 2024
 - Paper notification: May 27, 2024
-- Website: [https://www.auai.org/uai2024/](https://www.auai.org/uai2024/)
+- Website: [https://www.auai.org/uai2024/](https://2024.ecmlpkdd.org/)
 
 ## ECAI 2024
 - Dates: October 19-24, 2024
