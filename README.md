@@ -4,8 +4,8 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 ## IJCAI-PRICAI 2024
 - Dates: August 03-09, 2024
 - Location: Jeju, South Korea
-- Abstract submission deadline: January 10, 2024
-- Full paper submission deadline: January 17, 2024
+- ~~ Abstract submission deadline: January 10, 2024 ~~
+- ~~ Full paper submission deadline: January 17, 2024 ~~
 - Paper notification: April 16, 2024
 - Website: [https://ijcai24.org/](https://ijcai24.org/)
 
