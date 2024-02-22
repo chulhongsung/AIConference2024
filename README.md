@@ -12,30 +12,30 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 ## SIGIR 2024
 - Dates: July 14-18, 2024
 - Location:  Washington D.C., USA
-- Abstract submission deadline: January 18, 2024 (For short papers, February 1, 2024)
-- Full paper submission deadline: January 25, 2024 (For short papers, February 8, 2024)
+- ~~Abstract submission deadline: January 18, 2024 (For short papers, February 1, 2024)~~
+- ~~Full paper submission deadline: January 25, 2024 (For short papers, February 8, 2024)~~
 - Paper notification: March 25, 2024
 - Website: [https://sigir-2024.github.io](https://sigir-2024.github.io)
 
 ## ICML 2024
 - Dates: July 21-27, 2024
 - Location: Vienna, Austria
-- Full paper submission deadline: February 01, 2024
+- ~~Full paper submission deadline: February 01, 2024~~
 - Paper notification: May 01, 2024
 - Website: [https://icml.cc/Conferences/2024](https://icml.cc/Conferences/2024)
 
 ## KDD 2024
 - Dates: August, 2024
 - Location:  Barcelona, Spain
-- Abstract submission deadline: February 01, 2024
-- Full paper submission deadline: February 08, 2024
+- ~~Abstract submission deadline: February 01, 2024~~
+- ~~Full paper submission deadline: February 08, 2024~~
 - Paper notification: May, 2024
 - Website: [https://kdd2024.kdd.org](https://kdd2024.kdd.org)
 
 ## UAI 2024
 - Dates: July 15-19, 2024
 - Location:  Barcelona, Spain
-- Full paper submission deadline: February 09, 2024
+- ~~Full paper submission deadline: February 09, 2024~~
 - Paper notification: April, 25, 2024
 - Website: [https://www.auai.org/uai2024/](https://www.auai.org/uai2024/)
 
