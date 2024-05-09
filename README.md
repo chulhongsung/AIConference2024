@@ -1,6 +1,32 @@
 # AIConference2024
 Key Dates of AI/ML and Data Mining Conferences in 2024
 
+## CIKM 2024
+- Dates: October 21–25, 2024
+- Location: Boise Centre, Boise, Idaho, USA
+- Full paper & applied research paper Abstract submission deadline: May 13, 2024
+- Full paper & applied research submission deadline: May 20, 2024
+- Paper notification: July 16, 2024
+- Website: [https://cikm2024.org](https://cikm2024.org/)
+
+
+## NeurIPS 2024
+- Dates: December 9-15, 2024
+- Location: Vancouver Convention Center, Canada
+- Abstract submission deadline: May 15, 2024
+- Full paper submission deadline: May 22, 2024
+- Paper notification: Sep 25, 2024
+- Website: [https://nips.cc/Conferences/2024](https://nips.cc/Conferences/2024)
+
+## ICDM 2024
+- Dates: December 9-12, 2024
+- Location: Abu Dhabi, UAE
+- Full paper submission deadline: June 14, 2024
+- Paper notification: September 6, 2024
+- Website: [https://icdm2024.org](https://icdm2024.org/)
+
+---------------------------------------------------------
+
 ## IJCAI-PRICAI 2024
 - Dates: August 03-09, 2024
 - Location: Jeju, South Korea
@@ -55,28 +81,3 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Rebuttal period:  June 17-19, 2024
 - Paper notification: July 04, 2024
 - Website: [https://www.ecai2024.eu/](https://www.ecai2024.eu/)
-
-## CIKM 2024
-- Dates: October 21–25, 2024
-- Location: Boise Centre, Boise, Idaho, USA
-- Full paper & applied research paper Abstract submission deadline: May 13, 2024
-- Full paper & applied research submission deadline: May 20, 2024
-- Paper notification: July 16, 2024
-- Website: [https://cikm2024.org](https://cikm2024.org/)
-
-
-## NeurIPS 2024
-- Dates: December 9-15, 2024
-- Location: Vancouver Convention Center, Canada
-- Abstract submission deadline: May 15, 2024
-- Full paper submission deadline: May 22, 2024
-- Paper notification: Sep 25, 2024
-- Website: [https://nips.cc/Conferences/2024](https://nips.cc/Conferences/2024)
-
-## ICDM 2024
-- Dates: December 9-12, 2024
-- Location: Abu Dhabi, UAE
-- Full paper submission deadline: June 14, 2024
-- Paper notification: September 6, 2024
-- Website: [https://icdm2024.org](https://icdm2024.org/)
-
