@@ -25,6 +25,44 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Paper notification: September 6, 2024
 - Website: [https://icdm2024.org](https://icdm2024.org/)
 
+## KDD 2025 (KDD 2024 2nd round)
+- Dates: TBD
+- Location:  TBD
+- Abstract submission deadline: August 01, 2024
+- Full paper submission deadline: August 08, 2024
+- Paper notification: TBD
+- Website: [https://kdd2024.kdd.org](https://kdd2024.kdd.org)
+
+## AAAI 2025
+- Dates: February 2025
+- Location: PHILADELPHIA, PA, USA
+- Full paper submission deadline: TBD
+- Paper notification: TBD
+- Website: [https://aaai.org/conference/aaai-25](https://aaai.org/conference/aaai-25/)
+
+  
+## WSDM 2025
+- Dates: March 10-14, 2025
+- Location: Hannover, Germany
+- Abstract submission deadline: August 7, 2024
+- Full paper submission deadline: August 14, 2024
+- Paper notification: October 23, 2024
+- Website: [https://www.wsdm-conference.org/2025/](https://www.wsdm-conference.org/2025/)
+
+## WWW 2025
+- Dates: April 28 - May 2, 2025
+- Location: SYDNEY, AUSTRALIA
+- Full paper submission deadline: TBD
+- Paper notification: TBD
+- Website: [https://www2025.org](https://www2025.org/)
+
+## SDM 2025
+- Dates: May 1-3, 2025
+- Location: Alexandria, Virginia, US
+- Full paper submission deadline: TBD
+- Paper notification: TBD
+- Website: [https://www.siam.org/conferences/cm/conference/sdm25](https://www.siam.org/conferences/cm/conference/sdm25)
+
 ---------------------------------------------------------
 
 ## IJCAI-PRICAI 2024
@@ -55,7 +93,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Location:  Barcelona, Spain
 - ~~Abstract submission deadline: February 01, 2024~~
 - ~~Full paper submission deadline: February 08, 2024~~
-- Paper notification: May, 2024
+- Paper notification: May 16, 2024
 - Website: [https://kdd2024.kdd.org](https://kdd2024.kdd.org)
 
 ## UAI 2024
