@@ -4,7 +4,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 ## CIKM 2024
 - Dates: October 21–25, 2024
 - Location: Boise Centre, Boise, Idaho, USA
-- Full paper & applied research paper Abstract submission deadline: May 13, 2024
+- ~~Full paper & applied research paper Abstract submission deadline: May 13, 2024~~
 - Full paper & applied research submission deadline: May 20, 2024
 - Paper notification: July 16, 2024
 - Website: [https://cikm2024.org](https://cikm2024.org/)
@@ -13,7 +13,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 ## NeurIPS 2024
 - Dates: December 9-15, 2024
 - Location: Vancouver Convention Center, Canada
-- Abstract submission deadline: May 15, 2024
+- ~~Abstract submission deadline: May 15, 2024~~
 - Full paper submission deadline: May 22, 2024
 - Paper notification: Sep 25, 2024
 - Website: [https://nips.cc/Conferences/2024](https://nips.cc/Conferences/2024)
@@ -25,9 +25,16 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Paper notification: September 6, 2024
 - Website: [https://icdm2024.org](https://icdm2024.org/)
 
+## IEEE BigData 2024
+- Dates: December 15-18, 2024
+- Location: Washington DC, USA
+- Full paper submission deadline: September 8, 2024
+- Paper notification: October 27, 2024
+- Website: [https://www3.cs.stonybrook.edu/~ieeebigdata2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/index.html)
+
 ## KDD 2025 (KDD 2024 2nd round)
 - Dates: TBD
-- Location:  TBD
+- Location: TBD
 - Abstract submission deadline: August 01, 2024
 - Full paper submission deadline: August 08, 2024
 - Paper notification: TBD
@@ -70,7 +77,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Location: Jeju, South Korea
 - ~~Abstract submission deadline: January 10, 2024~~
 - ~~Full paper submission deadline: January 17, 2024~~
-- Paper notification: April 16, 2024
+- ~~Paper notification: April 16, 2024~~
 - Website: [https://ijcai24.org/](https://ijcai24.org/)
 
 ## SIGIR 2024
@@ -78,7 +85,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Location:  Washington D.C., USA
 - ~~Abstract submission deadline: January 18, 2024 (For short papers, February 1, 2024)~~
 - ~~Full paper submission deadline: January 25, 2024 (For short papers, February 8, 2024)~~
-- Paper notification: March 25, 2024
+- ~~Paper notification: March 25, 2024~~
 - Website: [https://sigir-2024.github.io](https://sigir-2024.github.io)
 
 ## ICML 2024
@@ -93,7 +100,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Location:  Barcelona, Spain
 - ~~Abstract submission deadline: February 01, 2024~~
 - ~~Full paper submission deadline: February 08, 2024~~
-- Paper notification: May 16, 2024
+- ~~Paper notification: May 16, 2024~~
 - Website: [https://kdd2024.kdd.org](https://kdd2024.kdd.org)
 
 ## UAI 2024
@@ -116,6 +123,6 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Location: Santiago de Compostela, Spain
 - Abstract submission deadline: April 19, 2024
 - ~~Full paper submission deadline: April 25, 2024~~
-- Rebuttal period:  June 17-19, 2024
+- Rebuttal period: June 17-19, 2024
 - Paper notification: July 04, 2024
 - Website: [https://www.ecai2024.eu/](https://www.ecai2024.eu/)
