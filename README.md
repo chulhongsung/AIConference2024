@@ -5,7 +5,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Dates: October 21–25, 2024
 - Location: Boise Centre, Boise, Idaho, USA
 - ~~Full paper & applied research paper Abstract submission deadline: May 13, 2024~~
-- Full paper & applied research submission deadline: May 20, 2024
+- ~~Full paper & applied research submission deadline: May 20, 2024~~
 - Paper notification: July 16, 2024
 - Website: [https://cikm2024.org](https://cikm2024.org/)
 
@@ -14,7 +14,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Dates: December 9-15, 2024
 - Location: Vancouver Convention Center, Canada
 - ~~Abstract submission deadline: May 15, 2024~~
-- Full paper submission deadline: May 22, 2024
+- ~~Full paper submission deadline: May 22, 2024~~
 - Paper notification: Sep 25, 2024
 - Website: [https://nips.cc/Conferences/2024](https://nips.cc/Conferences/2024)
 
