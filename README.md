@@ -35,16 +35,18 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 ## KDD 2025 (KDD 2024 2nd round)
 - Dates: TBD
 - Location: TBD
-- Abstract submission deadline: August 01, 2024
-- Full paper submission deadline: August 08, 2024
+- Abstract submission deadline: August 1, 2024
+- Full paper submission deadline: August 8, 2024
 - Paper notification: TBD
 - Website: [https://kdd2024.kdd.org](https://kdd2024.kdd.org)
 
 ## AAAI 2025
 - Dates: February 2025
 - Location: PHILADELPHIA, PA, USA
-- Full paper submission deadline: TBD
-- Paper notification: TBD
+- Abstract submission deadline: August 7, 2024
+- Full paper submission deadline: August 15, 2024
+- Rebuttal period: November 4-8, 2024
+- Paper notification: December 9, 2024
 - Website: [https://aaai.org/conference/aaai-25](https://aaai.org/conference/aaai-25/)
 
   
@@ -61,7 +63,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Location: SYDNEY, AUSTRALIA
 - Full paper submission deadline: TBD
 - Paper notification: TBD
-- Website: [https://www2025.org](https://www2025.org/)
+- Website: [https://www2025.thewebconf.org](https://www2025.thewebconf.org/)
 
 ## SDM 2025
 - Dates: May 1-3, 2025
