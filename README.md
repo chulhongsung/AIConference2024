@@ -47,7 +47,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Full paper submission deadline: August 15, 2024
 - Rebuttal period: November 4-8, 2024
 - Paper notification: December 9, 2024
-- Website: [https://aaai.org/conference/aaai-25](https://aaai.org/conference/aaai-25/)
+- Website: [https://aaai.org/aaai-conference/save-the-date-aaai-25/](https://aaai.org/aaai-conference/save-the-date-aaai-25/)
 
   
 ## WSDM 2025
