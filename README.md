@@ -117,7 +117,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Location: Vilnius, Lithuania
 - ~~Abstract submission deadline: March 15, 2024~~
 - ~~Full paper submission deadline: March 22, 2024~~
-- Paper notification: May 27, 2024
+- ~~Paper notification: May 27, 2024~~
 - Website: [https://2024.ecmlpkdd.org](https://2024.ecmlpkdd.org/)
 
 ## ECAI 2024
@@ -125,6 +125,6 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Location: Santiago de Compostela, Spain
 - Abstract submission deadline: April 19, 2024
 - ~~Full paper submission deadline: April 25, 2024~~
-- Rebuttal period: June 17-19, 2024
+- ~~Rebuttal period: June 17-19, 2024~~
 - Paper notification: July 04, 2024
 - Website: [https://www.ecai2024.eu/](https://www.ecai2024.eu/)
