@@ -36,8 +36,9 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 ## WWW 2025
 - Dates: April 28 - May 2, 2025
 - Location: SYDNEY, AUSTRALIA
-- Full paper submission deadline: TBD
-- Paper notification: TBD
+- Abstract submission deadline: October 3, 2024
+- Full paper submission deadline: October 10, 2024
+- Paper notification: January 27, 2025
 - Website: [https://www2025.thewebconf.org](https://www2025.thewebconf.org/)
 
 ## SDM 2025
