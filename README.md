@@ -110,7 +110,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Location: Boise Centre, Boise, Idaho, USA
 - ~~Full paper & applied research paper Abstract submission deadline: May 13, 2024~~
 - ~~Full paper & applied research submission deadline: May 20, 2024~~
-- Paper notification: July 16, 2024
+- ~~Paper notification: July 16, 2024~~
 - Website: [https://cikm2024.org](https://cikm2024.org/)
 
 ## NeurIPS 2024
