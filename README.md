@@ -48,6 +48,19 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Paper notification: TBD
 - Website: [https://www.siam.org/conferences/cm/conference/sdm25](https://www.siam.org/conferences/cm/conference/sdm25)
 
+## ICDE 2025 
+- Dates: May 19-23, 2025
+- Location: Hong Kong SAR, China
+- 1st round Full paper submission deadline: August 2, 2024
+- 1st round Paper notification (Accept/Revise/Reject): September 24, 2024
+- 1st round Revision due: October 29, 2024
+- 1st round Final notification (Accept/Reject): November 26, 2024
+- 2nd round Full paper submission deadline: November 28, 2024
+- 2nd round Paper notification (Accept/Revise/Reject): January 21, 2025
+- 2nd round Revision Due: February 25, 2025
+- 2nd round Final notification (Accept/Reject): March 25, 2025
+- Website: [https://ieee-icde.org/2025/](https://ieee-icde.org/2025/)
+
 ---------------------------------------------------------
 
 ## IJCAI-PRICAI 2024
@@ -82,8 +95,8 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Website: [https://kdd2024.kdd.org](https://kdd2024.kdd.org)
 
 ## UAI 2024
-- Dates: July 15-19, 2024
-- Location:  Barcelona, Spain
+- ~~Dates: July 15-19, 2024~~
+- ~~Location:  Barcelona, Spain~~
 - ~~Full paper submission deadline: February 09, 2024~~
 - ~~Paper notification: April, 25, 2024~~
 - Website: [https://www.auai.org/uai2024/](https://www.auai.org/uai2024/)
