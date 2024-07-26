@@ -1,12 +1,18 @@
 # AIConference2024
 Key Dates of AI/ML and Data Mining Conferences in 2024
 
-## IEEE BigData 2024
-- Dates: December 15-18, 2024
-- Location: Washington DC, USA
-- Full paper submission deadline: September 8, 2024
-- Paper notification: October 27, 2024
-- Website: [https://www3.cs.stonybrook.edu/~ieeebigdata2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/index.html)
+## ICDE 2025 
+- Dates: May 19-23, 2025
+- Location: Hong Kong SAR, China
+- 1st round Full paper submission deadline: August 2, 2024
+- 1st round Paper notification (Accept/Revise/Reject): September 24, 2024
+- 1st round Revision due: October 29, 2024
+- 1st round Final notification (Accept/Reject): November 26, 2024
+- 2nd round Full paper submission deadline: November 28, 2024
+- 2nd round Paper notification (Accept/Revise/Reject): January 21, 2025
+- 2nd round Revision Due: February 25, 2025
+- 2nd round Final notification (Accept/Reject): March 25, 2025
+- Website: [https://ieee-icde.org/2025/](https://ieee-icde.org/2025/)
 
 ## KDD 2025 (KDD 2024 2nd round)
 - Dates: TBD
@@ -15,6 +21,14 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Full paper submission deadline: August 8, 2024
 - Paper notification: TBD
 - Website: [https://kdd2024.kdd.org](https://kdd2024.kdd.org)
+
+## WSDM 2025
+- Dates: March 10-14, 2025
+- Location: Hannover, Germany
+- Abstract submission deadline: August 7, 2024
+- Full paper submission deadline: August 14, 2024
+- Paper notification: October 23, 2024
+- Website: [https://www.wsdm-conference.org/2025/](https://www.wsdm-conference.org/2025/)
 
 ## AAAI 2025
 - Dates: February 2025
@@ -25,13 +39,12 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Paper notification: December 9, 2024
 - Website: [https://aaai.org/conference/aaai-25/](https://aaai.org/conference/aaai-25/)
 
-## WSDM 2025
-- Dates: March 10-14, 2025
-- Location: Hannover, Germany
-- Abstract submission deadline: August 7, 2024
-- Full paper submission deadline: August 14, 2024
-- Paper notification: October 23, 2024
-- Website: [https://www.wsdm-conference.org/2025/](https://www.wsdm-conference.org/2025/)
+## IEEE BigData 2024
+- Dates: December 15-18, 2024
+- Location: Washington DC, USA
+- Full paper submission deadline: September 8, 2024
+- Paper notification: October 27, 2024
+- Website: [https://www3.cs.stonybrook.edu/~ieeebigdata2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/index.html)
 
 ## WWW 2025
 - Dates: April 28 - May 2, 2025
@@ -47,19 +60,6 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Full paper submission deadline: TBD
 - Paper notification: TBD
 - Website: [https://www.siam.org/conferences/cm/conference/sdm25](https://www.siam.org/conferences/cm/conference/sdm25)
-
-## ICDE 2025 
-- Dates: May 19-23, 2025
-- Location: Hong Kong SAR, China
-- 1st round Full paper submission deadline: August 2, 2024
-- 1st round Paper notification (Accept/Revise/Reject): September 24, 2024
-- 1st round Revision due: October 29, 2024
-- 1st round Final notification (Accept/Reject): November 26, 2024
-- 2nd round Full paper submission deadline: November 28, 2024
-- 2nd round Paper notification (Accept/Revise/Reject): January 21, 2025
-- 2nd round Revision Due: February 25, 2025
-- 2nd round Final notification (Accept/Reject): March 25, 2025
-- Website: [https://ieee-icde.org/2025/](https://ieee-icde.org/2025/)
 
 ---------------------------------------------------------
 
