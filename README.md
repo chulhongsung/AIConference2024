@@ -15,11 +15,12 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Website: [https://ieee-icde.org/2025/](https://ieee-icde.org/2025/)
 
 ## KDD 2025 (KDD 2024 2nd round)
-- Dates: TBD
-- Location: TBD
+- Dates: August 3 - 7, 2025
+- Location: Toronto, ON, Canada
 - Abstract submission deadline: August 1, 2024
 - Full paper submission deadline: August 8, 2024
-- Paper notification: TBD
+- Rebuttal period: October 4-18, 2024
+- Paper notification: November 16, 2024
 - Website: [https://kdd2025.kdd.org/](https://kdd2025.kdd.org/)
 
 ## WSDM 2025
