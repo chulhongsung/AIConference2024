@@ -20,7 +20,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Abstract submission deadline: August 1, 2024
 - Full paper submission deadline: August 8, 2024
 - Paper notification: TBD
-- Website: [https://kdd2024.kdd.org](https://kdd2024.kdd.org)
+- Website: [https://kdd2025.kdd.org/](https://kdd2025.kdd.org/)
 
 ## WSDM 2025
 - Dates: March 10-14, 2025
