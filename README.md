@@ -55,13 +55,12 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Paper notification: December 16, 2024
 - Website: [https://ecir2025.eu](https://ecir2025.eu/)
 
-
-
 ## WWW 2025
 - Dates: April 28 - May 2, 2025
 - Location: SYDNEY, AUSTRALIA
 - Abstract submission deadline: October 3, 2024
 - Full paper submission deadline: October 10, 2024
+- Rebuttal period: December 1-14, 2023
 - Paper notification: January 27, 2025
 - Website: [https://www2025.thewebconf.org](https://www2025.thewebconf.org/)
 
