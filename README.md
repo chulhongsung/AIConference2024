@@ -47,6 +47,16 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Paper notification: October 27, 2024
 - Website: [https://www3.cs.stonybrook.edu/~ieeebigdata2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/index.html)
 
+## ECIR 2025
+- Dates: April 6 - 10, 2025
+- Location: Lucca, Tuscany, Italy
+- Abstract submission deadline: October 2, 2024
+- Full paper submission deadline: October 9, 2024
+- Paper notification: December 16, 2024
+- Website: [https://ecir2025.eu](https://ecir2025.eu/)
+
+
+
 ## WWW 2025
 - Dates: April 28 - May 2, 2025
 - Location: SYDNEY, AUSTRALIA
