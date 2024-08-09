@@ -1,28 +1,6 @@
 # AIConference2024
 Key Dates of AI/ML and Data Mining Conferences in 2024
 
-## ICDE 2025 
-- Dates: May 19-23, 2025
-- Location: Hong Kong SAR, China
-- ~~1st round Full paper submission deadline: August 2, 2024~~
-- 1st round Paper notification (Accept/Revise/Reject): September 24, 2024
-- 1st round Revision due: October 29, 2024
-- 1st round Final notification (Accept/Reject): November 26, 2024
-- 2nd round Full paper submission deadline: November 28, 2024
-- 2nd round Paper notification (Accept/Revise/Reject): January 21, 2025
-- 2nd round Revision Due: February 25, 2025
-- 2nd round Final notification (Accept/Reject): March 25, 2025
-- Website: [https://ieee-icde.org/2025/](https://ieee-icde.org/2025/)
-
-## KDD 2025 (KDD 2024 2nd round)
-- Dates: August 3 - 7, 2025
-- Location: Toronto, ON, Canada
-- ~~Abstract submission deadline: August 1, 2024~~
-- ~~Full paper submission deadline: August 8, 2024~~
-- Rebuttal period: October 4-18, 2024
-- Paper notification: November 16, 2024
-- Website: [https://kdd2025.kdd.org/](https://kdd2025.kdd.org/)
-
 ## WSDM 2025
 - Dates: March 10-14, 2025
 - Location: Hannover, Germany
@@ -70,6 +48,28 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Full paper submission deadline: TBD
 - Paper notification: TBD
 - Website: [https://www.siam.org/conferences/cm/conference/sdm25](https://www.siam.org/conferences/cm/conference/sdm25)
+
+## ICDE 2025 
+- Dates: May 19-23, 2025
+- Location: Hong Kong SAR, China
+- ~~1st round Full paper submission deadline: August 2, 2024~~
+- 1st round Paper notification (Accept/Revise/Reject): September 24, 2024
+- 1st round Revision due: October 29, 2024
+- 1st round Final notification (Accept/Reject): November 26, 2024
+- 2nd round Full paper submission deadline: November 28, 2024
+- 2nd round Paper notification (Accept/Revise/Reject): January 21, 2025
+- 2nd round Revision Due: February 25, 2025
+- 2nd round Final notification (Accept/Reject): March 25, 2025
+- Website: [https://ieee-icde.org/2025/](https://ieee-icde.org/2025/)
+
+## KDD 2025 (KDD 2024 2nd round)
+- Dates: August 3 - 7, 2025
+- Location: Toronto, ON, Canada
+- ~~Abstract submission deadline: August 1, 2024~~
+- ~~Full paper submission deadline: August 8, 2024~~
+- Rebuttal period: October 4-18, 2024
+- Paper notification: November 16, 2024
+- Website: [https://kdd2025.kdd.org/](https://kdd2025.kdd.org/)
 
 ---------------------------------------------------------
 
