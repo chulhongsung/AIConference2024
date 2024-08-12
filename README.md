@@ -74,7 +74,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 ---------------------------------------------------------
 
 ## IJCAI-PRICAI 2024
-- Dates: August 03-09, 2024
+- ~~Dates: August 03-09, 2024~~
 - Location: Jeju, South Korea
 - ~~Abstract submission deadline: January 10, 2024~~
 - ~~Full paper submission deadline: January 17, 2024~~
@@ -82,7 +82,7 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Website: [https://ijcai24.org/](https://ijcai24.org/)
 
 ## SIGIR 2024
-- Dates: July 14-18, 2024
+- ~~Dates: July 14-18, 2024~~
 - Location:  Washington D.C., USA
 - ~~Abstract submission deadline: January 18, 2024 (For short papers, February 1, 2024)~~
 - ~~Full paper submission deadline: January 25, 2024 (For short papers, February 8, 2024)~~
@@ -90,14 +90,14 @@ Key Dates of AI/ML and Data Mining Conferences in 2024
 - Website: [https://sigir-2024.github.io](https://sigir-2024.github.io)
 
 ## ICML 2024
-- Dates: July 21-27, 2024
+- ~~Dates: July 21-27, 2024~~
 - Location: Vienna, Austria
 - ~~Full paper submission deadline: February 01, 2024~~
 - ~~Paper notification: May 01, 2024~~
 - Website: [https://icml.cc/Conferences/2024](https://icml.cc/Conferences/2024)
 
 ## KDD 2024
-- Dates: August, 2024
+- ~~Dates: August, 2024~~
 - Location:  Barcelona, Spain
 - ~~Abstract submission deadline: February 01, 2024~~
 - ~~Full paper submission deadline: February 08, 2024~~
